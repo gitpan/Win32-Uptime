@@ -1,3 +1,5 @@
+# $Id: Makefile.PL 22 2010-09-23 23:04:07Z stro $
+
 use strict;
 use warnings;
 

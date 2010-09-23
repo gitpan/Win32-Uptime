@@ -1,6 +1,9 @@
 #!/usr/env perl -w
 
+# $Id: uptime.pl 22 2010-09-23 23:04:07Z stro $
+
 use strict;
+use warnings;
 use Win32::Uptime;
 use integer;
 
